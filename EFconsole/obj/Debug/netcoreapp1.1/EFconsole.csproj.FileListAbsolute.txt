@@ -1,0 +1,9 @@
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\bin\Debug\netcoreapp1.1\EFconsole.deps.json
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\bin\Debug\netcoreapp1.1\EFconsole.runtimeconfig.json
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\bin\Debug\netcoreapp1.1\EFconsole.runtimeconfig.dev.json
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\bin\Debug\netcoreapp1.1\EFconsole.dll
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\bin\Debug\netcoreapp1.1\EFconsole.pdb
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\obj\Debug\netcoreapp1.1\EFconsole.AssemblyInfo.cs
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\obj\Debug\netcoreapp1.1\EFconsole.dll
+c:\users\ronnyf\documents\visual studio 2017\Projects\EFconsole\EFconsole\obj\Debug\netcoreapp1.1\EFconsole.pdb
+C:\Users\ronnyf\Documents\Visual Studio 2017\Projects\EFconsole\EFconsole\obj\Debug\netcoreapp1.1\EFconsole.csprojResolveAssemblyReference.cache
